@@ -20,7 +20,7 @@ webtitle: 'syutouki'
 bio: "不需要减肥的猪"
 about: true
 aboutyou: '我太瘦了，根本不需要减肥'
-portraits: '/assets/lbxx.jpegg' # your portraits image file path
+portraits: '/assets/lbxx.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
