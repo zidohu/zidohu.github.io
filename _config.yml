@@ -17,7 +17,7 @@ author: true
 name: '朱东辉'
 NickName: 'your awesome nickname'
 webtitle: 'syutouki'
-bio: '不需要减肥的猪'
+bio: "不需要减肥的猪"
 about: true
 aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
