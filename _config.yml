@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'syutouki'
-description: '朱东辉的个人博客'
+description: "朱东辉的个人博客"
 keywords: 'your web keywords, another keywords'
 url: 'https://zidohu.github.io' # your host
 
@@ -14,7 +14,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: '朱东辉'
+name: "朱东辉"
 NickName: 'your awesome nickname'
 webtitle: 'syutouki'
 bio: "不需要减肥的猪"
